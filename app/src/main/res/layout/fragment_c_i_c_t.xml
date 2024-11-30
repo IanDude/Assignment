@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".CICTFragment">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@mipmap/cict_pic_foreground"
+            android:scaleX="2"
+            android:scaleY="3.5"
+            />
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_margin="15dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="       ✨ 𝐂𝐈𝐂𝐓 𝐃𝐀𝐘 𝟐𝟎𝟐𝟒: 𝐀 𝐃𝐚𝐲 𝐨𝐟 𝐂𝐨𝐧𝐧𝐞𝐜𝐭𝐢𝐨𝐧 and 𝐂𝐞𝐥𝐞𝐛𝐫𝐚𝐭𝐢𝐨𝐧!  🎉
+Mark your calendars, CICT! Join us this 𝐍𝐨𝐯𝐞𝐦𝐛𝐞𝐫 𝟐𝟖, 𝟐𝟎𝟐𝟒 for an extraordinary day of meaningful connections and festivities!
+First up: Witness history in the making with our 𝐓𝐂𝐔-𝐆𝐑𝐂𝐅 𝐑𝐞𝐬𝐞𝐚𝐫𝐜𝐡 𝐏𝐚𝐫𝐭𝐧𝐞𝐫𝐬𝐡𝐢𝐩 𝐒𝐢𝐠𝐧𝐢𝐧𝐠!  🤝"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="      Now, here's where the real party begins... 🎉
+🌙 𝐁𝐀𝐓𝐂𝐇 𝟏 𝐂𝐄𝐋𝐄𝐁𝐑𝐀𝐓𝐈𝐎𝐍 | 𝟏:𝟎𝟎 𝐏𝐌 - 𝟒:𝟎𝟎 𝐏𝐌
+'𝑷𝑱𝒔, 𝑷𝒊𝒍𝒍𝒐𝒘𝒔, 𝒂𝒏𝒅 𝑷𝒖𝒓𝒆 𝑭𝒖𝒏' Calling all First and Second Years for the coziest celebration ever!
+        Bring your comfiest vibes as we transform the 5th floor into the ultimate afternoon pajama party!
+        Get ready for hours of comfort, connections, and unforgettable memories! 🌟"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="       ✨ 𝐁𝐀𝐓𝐂𝐇 𝟐 𝐂𝐄𝐋𝐄𝐁𝐑𝐀𝐓𝐈𝐎𝐍 | 𝟒:𝟑𝟎 𝐏𝐌 - 𝟖:𝟎𝟎 𝐏𝐌
+        '𝑮𝒍𝒊𝒕𝒕𝒆𝒓, 𝑮𝒍𝒂𝒎𝒐𝒖𝒓, 𝒂𝒏𝒅 𝑮𝒐𝒍𝒅𝒆𝒏 𝑴𝒐𝒎𝒆𝒏𝒕𝒔!' Calling all Third and Fourth Years for the most dazzling evening of the year!
+        Step into your finest attire as we turn the 5th floor into a sparkling wonderland! Let's make this evening shine as bright as your future! 💫
+        📍 Venue: Circular Building, 5th Floor
+        Be part of this memorable celebration as we come together to create lasting memories! Your presence will make this day even more special. ✨"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="       🏆 𝐓𝐡𝐞 𝟏𝟑𝐭𝐡 𝐈𝐓 𝐎𝐥𝐲𝐦𝐩𝐢𝐜𝐬 𝐡𝐚𝐬 𝐨𝐟𝐟𝐢𝐜𝐢𝐚𝐥𝐥𝐲 𝐜𝐨𝐧𝐜𝐥𝐮𝐝𝐞𝐝, 𝐚𝐧𝐝 𝐰𝐡𝐚𝐭 𝐚𝐧 𝐢𝐧𝐜𝐫𝐞𝐝𝐢𝐛𝐥𝐞 𝐥𝐞𝐚𝐫𝐧𝐢𝐧𝐠 𝐞𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞 𝐢𝐭 𝐡𝐚𝐬 𝐛𝐞𝐞𝐧! 🌟"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="      Proud of our cyber-athletes who represented us at the 𝐔𝐧𝐢𝐯𝐞𝐫𝐬𝐢𝐭𝐲 𝐨𝐟 𝐌𝐚𝐤𝐚𝐭𝐢 on 𝐍𝐨𝐯𝐞𝐦𝐛𝐞𝐫 𝟐𝟐, 𝟐𝟎𝟐𝟒! The competition, themed '𝑨𝒖𝒈𝒎𝒆𝒏𝒕𝒊𝒏𝒈 𝑺𝒆𝒄𝒖𝒓𝒊𝒕𝒚 𝑻𝒐𝒘𝒂𝒓𝒅𝒔 𝑻𝒉𝒆 𝑻𝒆𝒄𝒉𝒏𝒐 𝑼𝒕𝒐𝒑𝒊𝒂,' was an amazing opportunity to learn, grow, and connect with fellow tech enthusiasts. 💻"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="       The real victory lies in the experience gained and bonds formed! To our dedicated cyber-athletes who gave their best effort, our passionate coaches who prepared the team, and our supportive officers who stood by us throughout, thank you for being part of this wonderful journey! 🙌
+        Every competition is a stepping stone towards excellence, and we're already looking forward to future tech challenges! 🚀"/>
+
+        </LinearLayout>
+    </ScrollView>
+
+
+
+</LinearLayout>

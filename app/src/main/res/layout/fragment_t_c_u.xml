@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".TCUFragment"
+    android:orientation="vertical">
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@mipmap/tcu_logo_foreground"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="𝐒𝐂𝐇𝐄𝐃𝐔𝐋𝐄 𝐎𝐅 𝐒𝐔𝐁𝐌𝐈𝐒𝐒𝐈𝐎𝐍 𝐎𝐅 𝐑𝐄𝐐𝐔𝐈𝐑𝐄𝐌𝐄𝐍𝐓𝐒
+𝐓𝐂𝐔-𝐂𝐄𝐀𝐀 (𝟏𝐬𝐭 𝐒𝐞𝐦𝐞𝐬𝐭𝐞𝐫, 𝐒.𝐘. 𝟐𝟎𝟐𝟒-𝟐𝟎𝟐𝟓) applicants who applied ONLINE from September 16 to 30, 2024, here is your schedule based on the clustering of barangays."/>
+        </LinearLayout>
+       <LinearLayout
+           android:layout_width="wrap_content"
+           android:layout_height="wrap_content"
+           android:orientation="vertical"
+           android:layout_margin="15dp">
+           <TextView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="       𝐓𝐚𝐠𝐮𝐢𝐠 𝐂𝐢𝐭𝐲 𝐁𝐨𝐥𝐬𝐭𝐞𝐫𝐬 𝐃𝐢𝐬𝐚𝐬𝐭𝐞𝐫 𝐑𝐞𝐬𝐢𝐥𝐢𝐞𝐧𝐜𝐞 𝐰𝐢𝐭𝐡 𝐒𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥 𝐍𝐒𝐄𝐃"/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="      The City of Taguig actively took part in the third quarter National Simultaneous Earthquake Drill (NSED) to enhance disaster preparedness and resilience."/>
+           <TextView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="       Government and private employees, uniformed personnel, students, and residents practiced the “Duck, Cover, and Hold” technique, as well as how to reach their designated evacuation sites and apply other safety measures in response to an earthquake."/>
+           <TextView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="       The NSED was successfully conducted across public schools, offices, barangays, and city-owned buildings and facilities, with participation from over 454,000 individuals."/>
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="      Rescue teams showcased proper procedures for assisting trapped individuals and those with injuries during a simulated rescue operation."/>
+           <TextView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="       The City also deployed its state-of-the-art Mobile Control and Command Vehicle (MOCCOV), a vital tool in disaster management that allows for rapid coordination of resources and personnel during emergencies."/>
+           <TextView
+               android:layout_width="wrap_content"
+               android:layout_height="wrap_content"
+               android:text="       Under the leadership of Mayor Lani Cayetano, Taguig is committed to building a safer and more resilient community by actively participating in all National Simultaneous Earthquake Drills and promoting the importance of preparedness and teamwork in responding to disasters.
+#ILoveTaguig"/>
+       </LinearLayout>
+
+
+   </LinearLayout>
